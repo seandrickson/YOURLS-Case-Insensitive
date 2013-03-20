@@ -17,3 +17,8 @@ Bonus
 -----
 
 Works with [YOURLS QR Code Plugin](https://github.com/seandrickson/yourls-qrcode-plugin) to generate smaller QR codes!
+
+Credits
+-------
+
+Borrowed code from Ozh's [Force Lowercase](https://github.com/YOURLS/force-lowercase) plugin

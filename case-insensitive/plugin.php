@@ -4,7 +4,7 @@ Plugin URI: http://yourls.org/
 Description: Makes all keywords case insensitive (creates all keywords and calls all keywords lowercase.) Only works if you are using Base 36. Fixes disappearing capital letters. Updated using Ozh's force-lowercase plugin.
 Version: 1.0
 Author: Sean Hendrickson
-Author URI: http://flavors.me/seandrickson
+Author URI: https://github.com/seandrickson
 */
 
 // Redirection: http://sho.rt/ABC first converted to http://sho.rt/abc
