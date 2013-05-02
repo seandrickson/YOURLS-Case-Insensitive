@@ -1,6 +1,7 @@
-<?php /*
+<?php
+/*
 Plugin Name: Case Insensitive
-Plugin URI: http://yourls.org/
+Plugin URI: https://github.com/seandrickson/YOURLS-Case-Insensitive
 Description: Makes all keywords case insensitive (creates all keywords and calls all keywords lowercase.) Only works if you are using Base 36. Fixes disappearing capital letters. Updated using Ozh's force-lowercase plugin.
 Version: 1.0
 Author: Sean Hendrickson
