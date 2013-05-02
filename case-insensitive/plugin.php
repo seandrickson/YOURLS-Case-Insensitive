@@ -2,7 +2,7 @@
 /*
 Plugin Name: Case Insensitive
 Plugin URI: https://github.com/seandrickson/YOURLS-Case-Insensitive
-Description: Makes all keywords case insensitive (creates all keywords and calls all keywords lowercase.) Only works if you are using Base 36. Fixes disappearing capital letters. Updated using Ozh's force-lowercase plugin.
+Description: Makes all keywords case-insensitive (creates all keywords and calls lowercase.) Just a copy of Ozh's version, but made to work with <a href="https://github.com/seandrickson/YOURLS-QRCode-Plugin">Sean's QR Code plugin</a>
 Version: 1.0
 Author: Sean Hendrickson
 Author URI: https://github.com/seandrickson
