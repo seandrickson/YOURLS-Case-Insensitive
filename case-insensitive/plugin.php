@@ -8,6 +8,10 @@ Author: Sean Hendrickson
 Author URI: https://github.com/seandrickson
 */
 
+// No direct call
+if( !defined( 'YOURLS_ABSPATH' ) ) die();
+
+
 // Redirection: http://sho.rt/ABC first converted to http://sho.rt/abc
 yourls_add_filter( 'get_request', 'sean_convert_to_lowercase' );
 function sean_convert_to_lowercase( $keyword ) {
