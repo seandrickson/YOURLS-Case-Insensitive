@@ -16,7 +16,7 @@ User must have [YOURLS](http://yourls.org/#Install) 1.5.1+ installed.
 Bonus
 -----
 
-Works with [YOURLS QR Code Plugin](https://github.com/seandrickson/yourls-qrcode-plugin) to generate smaller QR codes!
+Works with [YOURLS QR Code Plugin](https://github.com/seandrickson/yourls-qrcode-plugin) to generate smaller QR codes! This is because QR codes store upper-case characters significantly more efficiently than lower-case (ratio 5.5:8)
 
 Credits
 -------
